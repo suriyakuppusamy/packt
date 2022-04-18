@@ -1,0 +1,6 @@
+## Application Setup::
+
+1. goto project root directory then run below command, to install all project specific dependencies 
+composer install 
+
+

@@ -1,6 +1,3 @@
-# packt
-Packt Technical Test
-
 ## Application Setup::
 
 1. goto project root directory then run below command, to install all project specific dependencies 
@@ -23,5 +20,4 @@ php artisan migrations
 
 5. Start the application
 php artisan serve
-
 
