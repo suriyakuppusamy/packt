@@ -1,5 +1,7 @@
 ## Application Setup::
 
+Checkout this below project as "example-app" directory 
+Example:: 
 1. goto project root directory then run below command, to install all project specific dependencies 
 composer install 
 
