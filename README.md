@@ -1,7 +1,10 @@
 ## Application Setup::
 
 Checkout this below project as "example-app" directory 
-Example:: 
+Example:: git checkcout https://github.com/suriyakuppusamy/packt.git example-app 
+
+
+
 1. goto project root directory then run below command, to install all project specific dependencies 
 composer install 
 
