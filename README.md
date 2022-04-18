@@ -1,7 +1,7 @@
 ## Application Setup::
 
 Checkout this below project as "example-app" directory 
-Example:: git checkcout https://github.com/suriyakuppusamy/packt.git example-app 
+Example:: git checkout https://github.com/suriyakuppusamy/packt.git example-app 
 
 
 
